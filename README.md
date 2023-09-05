@@ -53,5 +53,6 @@ I would like to credit all the resources I used to make this project possible:
 
 - [Material Design In XAML Toolkit](http://materialdesigninxaml.net/): A comprehensive and easy-to-use material design theme for WPF applications.
 - [Google Fonts](https://fonts.google.com/): A collection of free and open-source fonts that can be used for web and desktop applications.
+- [Newtonsoft.Json](https://www.newtonsoft.com/json): A popular high-performance JSON framework for .NET.
 
 **If I'm not crediting someone or something, but it should be here then let me know and I will add it to the list**
