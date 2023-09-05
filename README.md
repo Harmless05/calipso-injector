@@ -45,7 +45,7 @@ Cali is an open-source project, and contributions are welcome. If you want to co
 
 ## Contact
 
-If you have any questions or feedback about Cali, you can contact me on Discord. My username is [harmless0](https://discordapp.com/users/290429266036916224). You can also join my Discord server [Harmless' Hub](discord.harmlessdev.xyz) for more updates and discussions about Cali and my other projects.
+If you have any questions or feedback about Cali, you can contact me on Discord. My username is [harmless0](https://discordapp.com/users/290429266036916224). You can also join my Discord server [Harmless' Hub](https://discord.harmlessdev.xyz) for more updates and discussions about Cali and my other projects.
 
 ## Acknowledgments
 
