@@ -12,8 +12,8 @@ Cali is mainly focused on injecting into GTA5, but it can also be used for other
 
 - **Manual injection**: You can select the target process and the DLL file to inject manually. This works by selecting the process yourself from the list by its name or ID.
 - **Automatic injection**: Cali will automatically inject the DLL when the process is detected. This works by selecting the GTA5 platform from the Settings and waiting until the DLL is injected.
-- **Injection delay**: Adds a delay before the DLL is injected into the process. (Most useful when auto injecting into GTA5)
-- **Close injector**: Closes the injector after a sucessful injection.
+- **Injection delay**: Adds a delay before the DLL is injected into the process. (Most useful when auto-injecting into GTA5)
+- **Close injector**: Closes the injector after a successful injection.
 
 ## Installation
 
