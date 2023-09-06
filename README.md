@@ -27,6 +27,7 @@ To use Cali, you need to run it (If it doesn't open run it as an administrator).
 
 Cali is still under development, and many features are planned to be added in the future. Some of them are:
 
+- [ ] Portability (No installation needed)
 - [ ] Automatic updates
   - [ ] Check for updates in the background
   - [ ] Manual update checking
@@ -34,6 +35,7 @@ Cali is still under development, and many features are planned to be added in th
 - [ ] Tutorial for new users
 - [ ] Kill injected process
 - [ ] Cancel injection
+
 
 ## License
 
